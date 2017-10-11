@@ -1,0 +1,12 @@
+[
+  { "keys": ["ctrl+up"], "command": "scroll_lines", "args": {"amount": 1.0 } },
+  { "keys": ["ctrl+down"], "command": "scroll_lines", "args": {"amount": -1.0 } },
+  {
+    "keys": [";", ";"],
+    "command": "_enter_normal_mode",
+    "args": {
+      "mode": "mode_insert"
+    },
+    "context": [{"key": "vi_insert_mode_aware"}]
+  }
+]
