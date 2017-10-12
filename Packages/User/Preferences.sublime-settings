@@ -1,30 +1,27 @@
 {
 	"always_show_minimap_viewport": true,
-	"bold_folder_labels"          : true,
-	"highlight_line"              : true,
-	"caret_style"                 : "phase",
-
-	"color_scheme"                : "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme",
-	"theme"                       : "Nexus.sublime-theme",
-
-	"draw_minimap_border"         : true,
-	"font_face"                   : "Consolas",
-	"font_size"                   : 8,
-
-	"margin"                      : 2,
-	"match_brackets_angle"        : true,
-	"rulers"                      :	[80],
-	"tab_size"                    : 2,
-	"translate_tabs_to_spaces"    : true,
-
-	"save_on_focus_lost"          : true,
-
-	"default_line_ending"         : "UTF-8",
-	"show_encoding"               : true,
-	
-	"dictionary"                  : "Packages/Language - French - Français/fr_FR (all variants).dic",
-	"ignored_packages"            :
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme",
+	"default_line_ending": "UTF-8",
+	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
+	"draw_minimap_border": true,
+	"font_face": "Consolas",
+	"font_size": 8,
+	"highlight_line": true,
+	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"margin": 2,
+	"match_brackets_angle": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"tab_size": 2,
+	"theme": "Nexus.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
