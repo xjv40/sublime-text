@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night-Bright (SL).tmTheme",
 	"default_line_ending": "UTF-8",
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
 	"draw_minimap_border": true,
