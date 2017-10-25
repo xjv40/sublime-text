@@ -2,6 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"BracketHighlighter",
+		"GitGutter",
+		"PlainTasks",
+		"SublimeCodeIntel",
+		"ToggleQuotes",
+		"Wrap Plus"
 	],
 	"installed_packages":
 	[
