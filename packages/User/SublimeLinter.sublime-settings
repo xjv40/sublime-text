@@ -29,7 +29,9 @@
         "python_paths": {
             "linux": [],
             "osx": [],
-            "windows": ["C:/Program Files/Python36/Scripts/pylint.exe"]
+            "windows": [
+                "C:/Program Files/Python36/Scripts/pylint.exe"
+            ]
         },
         "rc_search_limit": 3,
         "shell_timeout": 10,
