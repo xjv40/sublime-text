@@ -29,6 +29,7 @@
 		"ReIndent",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeHighlight",
 		"SublimeLinter",
 		"SublimeLinter-pylint",
 		"Table Editor",
@@ -37,5 +38,9 @@
 		"Tomorrow Color Schemes",
 		"VBScript",
 		"Wrap Plus"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
 	]
 }
