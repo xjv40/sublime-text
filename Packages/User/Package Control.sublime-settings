@@ -2,12 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"BracketHighlighter",
-		"GitGutter",
-		"PlainTasks",
-		"SublimeCodeIntel",
-		"ToggleQuotes",
-		"Wrap Plus"
 	],
 	"installed_packages":
 	[
@@ -36,6 +30,8 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint",
 		"SublimeLinter-pylint",
 		"Table Editor",
 		"Theme - Nexus",
