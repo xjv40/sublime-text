@@ -35,6 +35,8 @@
 		"SublimeCodeIntel",
 		"SublimeHighlight",
 		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint",
 		"SublimeLinter-pylint",
 		"Table Editor",
 		"Theme - Nexus",
