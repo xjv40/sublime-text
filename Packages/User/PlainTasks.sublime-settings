@@ -1,5 +1,8 @@
 {
 	"done_tasks_bullet": "✓",
 	"font_face": "Consolas",
-	"color_scheme": "Packages/PlainTasks/tasks-monokai.hidden-tmTheme"
+	"color_scheme": "Packages/PlainTasks/tasks-monokai.hidden-tmTheme",
+  "line_numbers": true,
+  "tab_size": 2,
+  "rulers": []
 }
