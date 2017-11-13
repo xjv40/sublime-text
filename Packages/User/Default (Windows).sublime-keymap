@@ -9,5 +9,6 @@
     },
     "context": [{"key": "vi_insert_mode_aware"}]
   },
-  { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" }
+  { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+  { "keys": ["ctrl+y"], "command": "redo_or_repeat" }
 ]
