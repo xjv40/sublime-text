@@ -31,6 +31,10 @@
 	],
 	"font_face": "Consolas",
 	"font_size": 8,
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"highlight_line": true,
 	"ignored_packages":
 	[
