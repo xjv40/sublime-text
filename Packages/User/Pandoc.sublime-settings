@@ -9,7 +9,17 @@
         "pandoc-arguments": [
           "-t", "pdf", "-o", "fichier.pdf", "-f", "markdown_mmd"
         ]
-      }
+      },
+      "PDF TOC": {
+          "scope": {
+          "text.html": "html",
+          "text.html.markdown": "markdown",
+        },
+          "pandoc-arguments": [
+          "-s", "--toc", "--number-sections",
+          "-t", "pdf", "-o", "fichier.pdf", "-f", "markdown_mmd",
+        ],
+      },
     }
   }
 }
