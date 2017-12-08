@@ -1,0 +1,6 @@
+// These settings override both User and Default settings for the Plain text syntax
+{
+  "rulers": [],
+  "word_wrap": true,
+  "wrap_width": 80
+}
