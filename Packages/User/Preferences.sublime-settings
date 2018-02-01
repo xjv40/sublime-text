@@ -54,6 +54,6 @@
 	"tab_size": 2,
 	"theme": "Nexus.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
+	"trim_automatic_white_space": false,
 	"word_wrap": true
 }
