@@ -16,7 +16,7 @@
           "text.html.markdown": "markdown",
           },
         "pandoc-arguments": [
-          "-V", "geometry:margin=1.25in", 
+          "-V", "geometry:margin=1.25in",
           "-s", "--toc", "--number-sections",
           "-o", "fichier.pdf",
           "-f", "markdown_mmd",
