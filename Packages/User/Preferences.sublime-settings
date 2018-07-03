@@ -41,7 +41,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"C11",
 		"Arduino-like IDE",
 		"Markdown",
 		"Vintage"
