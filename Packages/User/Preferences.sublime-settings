@@ -42,6 +42,7 @@
 	"ignored_packages":
 	[
 		"C11",
+		"Arduino-like IDE",
 		"Markdown",
 		"Vintage"
 	],
